@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.item
+{
+	background-color:rgb(230,230,230);
+	text-align:center;
+	padding:3%;
+	margin:3%;
+	
+}
+
+.itemtitle
+{
+	color:rgb(0,0,102);
+	font-weight:bold;
+	font-size:medium;
+}
+
+.itemPicture
+{
+	margin:1%;
+}
+
+.labelbold
+{
+	font-weight:bold;
+	
+}
+
+
+
+#content
+{
+	
+}
